@@ -36,14 +36,14 @@ a:hover, a:active {
     text-decoration: none;
 }
 .base-bg {
-    background-color: rgb(38, 4, 209);
-    background-image: linear-gradient(rgb(38, 4, 209), rgb(0, 16, 49));    
+    background-color: rgb(33, 17, 111);
+    background-image: linear-gradient(rgb(28, 8, 126), rgb(1, 14, 40));    
     color: rgb(246, 226, 218);
     padding: 1em;
 }
 .mynd-bg {
     background-color: rgb(38, 4, 209);
-    background-image: linear-gradient(to top, rgb(38, 4, 209), rgb(0, 22, 66));    
+    background-image: linear-gradient(to top, rgb(30, 2, 172), rgb(0, 22, 66));    
 }
 .col-2,
 .col-3,
@@ -99,7 +99,7 @@ blockquote {
     position: sticky;
     display: flex;
     flex-direction: column;
-    background-image:linear-gradient(rgb(32, 6, 164), rgb(43, 6, 231));  
+    background-image:linear-gradient(rgb(32, 6, 164), rgb(20, 3, 104));  
 }
 .innerlinks a:link {
     text-align: center;
